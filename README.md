@@ -1,3 +1,3 @@
 # file
 project based on python, django
-author -druva N
+author -druva B
